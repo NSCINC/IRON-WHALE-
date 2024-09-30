@@ -1,5 +1,0 @@
-<dependency>
-    <groupId>org.bouncycastle</groupId>
-    <artifactId>bcprov-jdk15on</artifactId>
-    <version>1.70</version> <!-- Verifique a versão mais recente disponível -->
-</dependency>
