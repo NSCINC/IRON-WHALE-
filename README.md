@@ -66,6 +66,6 @@ This project is licensed under the Apache-2.0 License. See the LICENSE file for 
 🍏 IRON-WHALE AI 🍏 stands at the forefront of HoloFi technology, redefining decentralized application management, artificial intelligence, and digital asset security through advanced quantum integration and planetary-ready solutions.
 
 <p>**FOUNDER: LUCAS JANAURIO DO NASCIMENTO**</p>
-<p> <img src="ejpg" /> </p>
+<p> <img src="ejpeg" /> </p>
 
 
