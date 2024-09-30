@@ -1,5 +1,5 @@
-🍄IRON-WHALE AI🍄
-🍏🤖 IRON-WHALE AI 🤖🍏
+
+🍏🤖🍄 IRON-WHALE AI🍄 🤖🍏
 
 🌍 🌱
 
